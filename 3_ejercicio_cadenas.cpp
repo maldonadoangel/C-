@@ -12,6 +12,6 @@ int main(){
     if(strcmp(palabra,palabra2) == 0){
         cout<<"Ambas cadenas son iguales"<<endl;
     }
-    
+
     return 0;
 }
