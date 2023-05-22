@@ -23,5 +23,4 @@ void tiempo(int totalSeg, int& horas, int& min, int& seg){
     totalSeg = totalSeg%60;
     seg = totalSeg/1;
     totalSeg = totalSeg%1;
-    
 }
